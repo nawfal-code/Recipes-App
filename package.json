@@ -1,0 +1,20 @@
+{
+  "name": "recepies-task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+     "start":"node server.js",
+     "dev" : "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "nawfal",
+  "type"  : "module",
+  "license": "ISC",
+  "description": "This is for my task purpose",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.0.0",
+    "nodemon": "^3.1.11"
+  }
+}
