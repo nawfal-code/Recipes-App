@@ -47,8 +47,7 @@ Delete recipe by ID
 
 All endpoints are documented and tested using Postman.
 
-https://documenter.getpostman.com/view/50349753/2sB3dMxr7Y
-
+https://documenter.getpostman.com/view/50349753/2sB3dSNoJD
 ---
 
 ## 🚀 Deployment
@@ -62,4 +61,5 @@ https://recipes-app-d8e6.onrender.com
 ## 👤 Author
 
 **Mohammed Nawfal**
+
 
