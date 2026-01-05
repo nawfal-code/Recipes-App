@@ -1,7 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
 import connectDB from "./database/dbConfig.js";
-import recipeRouter from "./views/recipeRoutes.js";
+import recipeRouter from "./routes/recipeRoutes.js";
 
 dotenv.config();
 
@@ -23,3 +23,4 @@ app.get("/",(req,res)=>{
 app.listen(port,()=>{
     console.log(`server starts at ${port}`)
 });
+
